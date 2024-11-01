@@ -1,0 +1,1 @@
+print(f"Flag: CTFlearn{{{hex(0xc4115 ^ 0x4cf8)}}}")
